@@ -57,7 +57,7 @@ public class ExamenTarde {
                         +"\nCantidad: "+cant[j]
                         +"\nPrecio: $"+precio[j]
                         +"\nTotal sin IVA: $"+sumcant
-                        +"\nTotal con IVA incluido: $"+iva);
+                        +"\nTotal con IVA incluido: $"+iva+"\n");
                         }
                     }
             }else{
